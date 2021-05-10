@@ -1,0 +1,1 @@
+python infer_tusimple.py  --snapshot tusimple-weights\net_0012.pth --input_vid
