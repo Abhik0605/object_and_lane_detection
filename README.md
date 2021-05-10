@@ -1,3 +1,2 @@
-# object_and_lane_detection
-
-I keep forgetting how to use github
+# object_and_lane_dete
+I am painfully remembering 
