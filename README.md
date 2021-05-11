@@ -1,2 +1,12 @@
 # object_and_lane_detection
-I attempt to use darknet  yolov4 object detection along with LaneAF/LaneNet and figure out how to implement it real time.
+I use darknet algorithm for object detection and LaneAF for lane detection.
+
+Here is a picture
+![result](result.png)
+
+
+After cloning this repo use 
+
+'''
+python main.py --weights_laneaf LaneAF\tusimple-weights\net_0012.pth --input_img LaneAF\data\tusimple_test_image\3.jpg
+'''
