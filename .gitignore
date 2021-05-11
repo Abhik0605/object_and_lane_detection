@@ -11,3 +11,5 @@ darknet/backup
 darknet/data/labels
 darknet/data/voc
 darknet/weights
+darknet/Commands_file
+darknet/__pycache__
