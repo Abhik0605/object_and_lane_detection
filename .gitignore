@@ -10,3 +10,4 @@ darknet/DLL_Release
 darknet/backup
 darknet/data/labels
 darknet/data/voc
+darknet/weights
