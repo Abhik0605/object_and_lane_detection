@@ -5,3 +5,8 @@ LaneAF/models/__pycache__
 LaneAF/utils/__pycache__
 LaneAF/project.avi
 out
+darknet/Release
+darknet/DLL_Release
+darknet/backup
+darknet/data/labels
+darknet/data/voc
