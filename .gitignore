@@ -13,3 +13,11 @@ darknet/data/voc
 darknet/weights
 darknet/Commands_file
 darknet/__pycache__
+darknet/cudnn64_8.dll
+darknet/pthreadGC2.dll
+darknet/pthreadVC2.dll
+darknet/yolo_cpp_dll.dll
+darknet/yolo_cpp_dll.exp
+darknet/challenge.mp4
+darknet/darknet.pdb
+darknet/yolo_cpp_dll.pdb
