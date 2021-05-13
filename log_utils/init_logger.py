@@ -23,7 +23,7 @@ def get_logger(log_file_name_prefix):
     """
     start_time = time.strftime('%Y-%m-%d-%H-%M-%S', time.localtime(time.time()))
     log_file_name = '{:s}_{:s}.log'.format(log_file_name_prefix, start_time)
-    log_file_path = ops.join(log_file_name)
+    log_file_path = ops.join("log_files",log_file_name)
 
     logger = loguru.logger
     # log_level = 'INFO'
