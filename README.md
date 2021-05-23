@@ -14,3 +14,10 @@ python main.py --weights_laneaf LaneAF\tusimple-weights\net_0012.pth --input_img
 Testing in real time
 
 ![test gif](ezgif-2-41845940fc26.gif)
+
+Things to do
+
+- [ ] Get better FPS on GTX 1060
+- [ ] Automatically update dataset to train the current model for lane detection
+- [ ] Use MLOps concepts to make code more sophisticated and applicable
+- [ ] Develop flow chart to understand how data flows through the model
